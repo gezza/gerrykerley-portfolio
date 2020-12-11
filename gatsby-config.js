@@ -6,7 +6,15 @@ module.exports = {
   },
   plugins: [
     'gatsby-plugin-react-helmet',
-    'gatsby-plugin-sass',
+    // Error when running locally for first time
+    // Solved with this fix - https://github.com/gatsbyjs/gatsby/issues/28007
+    //'gatsby-plugin-sass',
+    {
+      resolve: 'gatsby-plugin-sass',
+      options: {
+        indentedSyntax: true
+      }
+    },
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
       resolve: 'gatsby-source-filesystem',
