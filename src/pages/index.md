@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Software Developer | Lifelong Learner
-image: /img/dsc_6085-pano2.jpg
+image: /img/garden-rainbow.jpg
 heading: Available for opportunites!
 subheading: Python, Machine Learning, Data Science
 mainpitch:
