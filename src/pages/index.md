@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Software Developer | Lifelong Learner
+title: Software Developer & Lifelong Learner
 image: /img/rainbow-garden.jpg
-heading: Available for opportunites!
-subheading: Python, Machine Learning, Data Science
+heading: Available for opportunities!
+subheading: Python, Machine Learning, Artificial Intelligence, Data Science
 mainpitch:
   title: About me
   description: I am a versatile software developer continuously learning more
