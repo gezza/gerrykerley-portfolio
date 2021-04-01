@@ -1,18 +1,52 @@
 ---
 templateKey: blog-post
-title: First Blog test
-date: 2020-12-13T22:43:13.571Z
-description: First test blog post description
+title: About me
+date: 2021-04-01T22:31:40.980Z
+description: Like Schrödinger's cat 🐈, my career is simultaneously dead AND
+  alive right now, although I’m not quite in a superposition 🙃. My 15+ years of
+  varied software development experience is withering 🥀, whereas my verve for
+  understanding A.I., Machine Learning, & Data Science is flourishing 🌱.
 featuredpost: true
 featuredimage: /img/chemex.jpg
 tags:
-  - test
+  - ai machine-learning
 ---
-sdfsdf osndof s ## sdfsdfs
+**ALL IN THE MIND 🤔**
+
+I’ve often thought of myself as a Jack of All Trades (Master of None), due to the multitude of tools & languages that I’ve used over the years (although a Swiss Army Knife sounds better!). Now, I’m striving for a T-Shaped skill set: capable in a wide range of areas, with a deeper grasp of A.I. technologies.
+
+**READY TO START 🟢**
+
+I am seeking a role in an innovative company, where I can help solve real world problems with modern machine learning algorithms, model architectures, & data pipelines. My analytical thinking, desire to learn, & adaptability, will be of benefit to me in a new challenge, if someone is willing to take a chance on me.
+
+**ROAD TO NOWHERE 🛑**
+
+In the 60s, my mum was a punched card programmer & after a detour to Physics (I blame Feynman & Hawking), I followed her footsteps into coding. In the late 90s, I was made redundant when the dotcom bubble burst. After working as a baggage handler, I joined a bank, survived the global financial crisis & 2 company transfers, then hit dead end street.
+
+**GREAT EXPECTATIONS 👨‍💻**
+
+Alan Turing, Deep Blue, ImageNet, & AlphaGo inspired me to study Machine Learning & Python (superbly named after Monty Python’s Flying Circus 🦜). This led to an R&D role at Catapult Sports but I had to leave during the pandemic. While job hunting, I’ve completed numerous online courses to improve my skills. The search for the Holy Grail 🏆 (a machine learning job) continues, but any day now I hope to get lucky.
+
+**GOOD TIMES 😎**
+
+❖ To stimulate my little grey cells 🧠, I enjoy cryptic crosswords, fantasy football ⚽, & quizzes.
+❖ To relax, I read, listen to music & podcasts 🎧, & potter about in the garden 🌼.
+❖ For fun, I spend time with my family, go to concerts 🎵, and savour the odd craft beer 🍺.
+
+**CALL ME MAYBE 📧**
+
+If you have anything of interest (a job, advice, lotto numbers), then connect with me or send a message in a bottle.
+
+**COMPUTER LOVE 💻**
+
+🔸 Machine Learning (Scikit-Learn, Keras, TensorFlow, PyTorch)
+
+🔸 Deep Learning (Neural Networks, Computer Vision, NLP)
+
+🔸 Python (Pandas, NumPy, Matplotlib, Seaborn)
+
+🔸 SQL | NodeJS | Jupyter Notebooks | AWS
 
 
-* \#sfdsf
 
-  *sdfsdfsf*
-
-  \####rwerewww
+🔥 “*Education is not the filling of a pot but the lighting of a fire.*” - W.B. Yeats
