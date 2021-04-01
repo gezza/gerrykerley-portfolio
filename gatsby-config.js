@@ -42,7 +42,8 @@ module.exports = {
       options: {	
         path: `${__dirname}/static/`,	
         name: 'static',	
-    },    
+      },
+    },
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
     {
