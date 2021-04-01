@@ -3,8 +3,6 @@ templateKey: about-page
 path: /about
 title: About me
 ---
-<!--StartFragment-->
-
 Like Schrödinger's cat 🐈, my career is simultaneously dead AND alive right now, although I’m not quite in a superposition 🙃. My 15+ years of varied software development experience is withering 🥀, whereas my verve for understanding A.I., Machine Learning, & Data Science is flourishing 🌱.
 
 #### ALL IN THE MIND 🤔
@@ -47,5 +45,3 @@ If you have anything of interest (a job, advice, lotto numbers), then connect wi
 
 **\
 🔥 “Education is not the filling of a pot but the lighting of a fire.” - W.B. Yeats**
-
-<!--EndFragment-->
