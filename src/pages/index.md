@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Software Developer & Lifelong Learner
+title: AI Software Developer | Lifelong Learner
 image: /img/rainbow-garden.jpg
 heading: Available for opportunities!
 subheading: Python, Machine Learning, Artificial Intelligence, Data Science
