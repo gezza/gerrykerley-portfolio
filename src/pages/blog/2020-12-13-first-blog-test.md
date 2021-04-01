@@ -7,9 +7,9 @@ description: Like Schrödinger's cat 🐈, my career is simultaneously dead AND
   varied software development experience is withering 🥀, whereas my verve for
   understanding A.I., Machine Learning, & Data Science is flourishing 🌱.
 featuredpost: true
-featuredimage: /img/chemex.jpg
+featuredimage: /img/schrodingers_cat.svg
 tags:
-  - ai machine-learning
+  - ai machine-learning python deep-learning tensorflow
 ---
 **ALL IN THE MIND 🤔**
 
