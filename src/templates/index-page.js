@@ -3,8 +3,9 @@ import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
-import Features from '../components/Features'
+//import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
+import '../components/all.sass' 
 
 export const IndexPageTemplate = ({
   image,
@@ -40,35 +41,35 @@ export const IndexPageTemplate = ({
           className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
           style={{
             boxShadow:
-              'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(255, 68, 0)',
-            color: 'white',
+              'rgb(204, 204, 204) 0.5rem 0px 0px, rgb(204, 204, 204) -0.5rem 0px 0px',
+            backgroundColor: 'rgb(204, 204, 204)',
+            color: 'rgb(87, 13, 31)',
             lineHeight: '1',
             padding: '0.25em',
           }}
         >
           {title}
         </h1>
-        <h3
+        <h4
           className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
             boxShadow:
-              'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(255, 68, 0)',
-            color: 'white',
+              'rgb(204, 204, 204) 0.5rem 0px 0px, rgb(204, 204, 204) -0.5rem 0px 0px',
+            backgroundColor: 'rgb(204, 204, 204)',
+            color: 'grey',
             lineHeight: '1',
             padding: '0.25em',
           }}
         >
           {subheading}
-        </h3>
+        </h4>
       </div>
     </div>
     <section className="section section--gradient">
       <div className="container">
         <div className="section">
           <div className="columns">
-            <div className="column is-10 is-offset-1">
+            <div className="column is-6 is-offset-1">
               <div className="content">
                 <div className="content">
                   <div className="tile">
@@ -80,12 +81,13 @@ export const IndexPageTemplate = ({
                 </div>
                 <div className="columns">
                   <div className="column is-12">
-                    <h3 className="has-text-weight-semibold is-size-2">
+                    <h3 className="has-text-weight-semibold is-size-3">
                       {heading}
                     </h3>
                     <p>{description}</p>
                   </div>
                 </div>
+{/*
                 <Features gridItems={intro.blurbs} />
                 <div className="columns">
                   <div className="column is-12 has-text-centered">
@@ -94,18 +96,24 @@ export const IndexPageTemplate = ({
                     </Link>
                   </div>
                 </div>
+*/}
                 <div className="column is-12">
+               
                   <h3 className="has-text-weight-semibold is-size-2">
                     Latest stories
                   </h3>
-                  <BlogRoll />
+                <BlogRoll />
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to="/blog">
                       Read more
                     </Link>
                   </div>
+              
                 </div>
               </div>
+            </div>
+            <div className="column is-4">
+                <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="gerrykerley"><a class="LI-simple-link" href='https://ie.linkedin.com/in/gerrykerley?trk=profile-badge'>Gerry Kerley</a></div>                  
             </div>
           </div>
         </div>
