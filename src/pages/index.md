@@ -6,13 +6,15 @@ heading: Available for opportunities!
 subheading: Python, Machine Learning, Artificial Intelligence, Data Science
 mainpitch:
   title: About me
-  description: I am a versatile software developer continuously learning more
-    about Python and Machine Learning, as I am fascinated by all areas of
-    Artificial Intelligence & Data Science.
-description: The ability to adapt to changing environments and to learn new
-  skills quickly has been vital in my career to date. I am motivated by an
-  innate curiosity and enjoy working on real world problems using the latest
-  technologies and techniques.
+  description: Like Schrödinger's cat 🐈, my career is simultaneously dead AND
+    alive right now, although I’m not quite in a superposition 🙃. My 15+ years
+    of varied software development experience is withering 🥀, whereas my verve
+    for understanding A.I., Machine Learning, & Data Science is flourishing 🌱.
+description: I am seeking a role in an innovative company, where I can help
+  solve real world problems with modern machine learning algorithms, model
+  architectures, & data pipelines. My analytical thinking, desire to learn, &
+  adaptability, will be of benefit to me in a new challenge, if someone is
+  willing to take a chance on me.
 intro:
   blurbs:
     - image: /img/coffee.png
